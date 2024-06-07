@@ -1,0 +1,9 @@
+1
+./sample/MCTS_1.exe
+2
+./sample/brs.exe
+3
+./sample/minimax.exe
+4
+./sample/MCTS_4.exe
+1

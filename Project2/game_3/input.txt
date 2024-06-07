@@ -1,0 +1,10 @@
+17
+./sample/team17_agent1.exe
+2
+./sample/minimax.exe
+3
+./sample/mcts_sqrt.exe
+4
+./sample/mcts_035.exe
+3
+
