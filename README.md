@@ -12,3 +12,7 @@ MI BCI Application on Unity Kart Game
 ## Project 2
 
 ## Final Project - Editable Video Colorization
+
+### Related Work
+- [DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders](https://github.com/piddnad/DDColor)
+- [CoDeF: Content Deformation Fields for Temporally Consistent Video Processing](https://github.com/qiuyu96/CoDeF)
