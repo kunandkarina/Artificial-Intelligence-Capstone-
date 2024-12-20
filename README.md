@@ -21,3 +21,8 @@ MI BCI Application on Unity Kart Game
 <div align="center">
   <img src="./Final/assets/pipeline.png">
 </div>
+
+### Results
+<div>
+  <img src="./Final/assets/res.gif">
+</div>
