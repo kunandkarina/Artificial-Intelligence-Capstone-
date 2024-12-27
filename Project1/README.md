@@ -18,10 +18,22 @@ This game was designed by [Alexander Edward Hutomo](https://github.com/xEvheMary
 1. **CSP + LDA**
 2. **CSP + SVM**
 
-### Results
-<div align="center">
-  <img src="./assets/cm.png">
-</div>
-
 ### Deep learning
 1. **EEGNet**
+
+## Results
+
+### Confusion Matrix
+<div align="center">
+  <img src="./assets/cm.png" width=850>
+</div>
+
+### Graph
+Machine Learning
+<div align="center">
+  <img src="./assets/ML_graph.png" width=700>
+</div>
+Deep Learning
+<div align="center">
+  <img src="./assets/DP_graph.png" width=700>
+</div>
