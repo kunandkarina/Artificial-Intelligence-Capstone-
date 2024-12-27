@@ -18,7 +18,7 @@ This game was designed by [Alexander Edward Hutomo](https://github.com/xEvheMary
 1. **CSP + LDA**
 2. **CSP + SVM**
 
-## Results
+### Results
 <div align="center">
   <img src="./assets/cm.png">
 </div>
