@@ -7,3 +7,5 @@
 <div align="center">
   <img src="./assets/Kart.gif">
 </div>
+
+This game was designed by [Alexander Edward Hutomo](https://github.com/xEvheMary) , using motor imagery to control a kart in the game.
