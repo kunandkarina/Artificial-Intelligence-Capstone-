@@ -17,5 +17,11 @@ This game was designed by [Alexander Edward Hutomo](https://github.com/xEvheMary
 ### Machine Learning
 1. **CSP + LDA**
 2. **CSP + SVM**
+
+## Results
+<div align="center">
+  <img src="./assets/cm.png">
+</div>
+
 ### Deep learning
 1. **EEGNet**
