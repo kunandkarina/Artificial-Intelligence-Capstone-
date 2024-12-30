@@ -1,6 +1,6 @@
 <h1 align="center">MI-BCI-UnityKart</h1>
 <div align="center">
-  <h4>This project focuses on comparing machine learning and deep learning methods.</h4>
+  <h4>This project is the application of Brain-Computer Interface, using Motor Imagery to control a kart in the game</h4>
 </div>
 
 ## Related Works
